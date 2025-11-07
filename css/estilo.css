@@ -193,10 +193,3 @@ hr {
     position: relative;
     z-index: 1;
 }
-::-webkit-scrollbar {
-    width: 5px;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background-color: gray;
-  }
