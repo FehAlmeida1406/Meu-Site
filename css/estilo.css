@@ -193,3 +193,11 @@ hr {
     position: relative;
     z-index: 1;
 }
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #black
+  border-radius: 10px;
+}
