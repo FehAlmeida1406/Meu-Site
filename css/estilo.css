@@ -198,6 +198,6 @@ hr {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #black
+  background-color: #000;
   border-radius: 10px;
 }
