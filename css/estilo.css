@@ -50,6 +50,7 @@ body {
 main{
     flex: 1;
 }
+
 .footer-full-width {
     width: 100vw; 
     margin-left: calc(50% - 50vw);
